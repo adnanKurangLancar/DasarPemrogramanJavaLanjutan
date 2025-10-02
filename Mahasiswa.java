@@ -5,6 +5,7 @@ public class Mahasiswa {
     private String jurusan;
 
     // Constructor
+    //c
     public Mahasiswa(String nama, String nim, String jurusan) {
         this.nama = nama;
         this.nim = nim;

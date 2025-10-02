@@ -3,7 +3,7 @@ public class MainMahasiswaApp {
         // Membuat objek mahasiswa
         Mahasiswa mhs = new Mahasiswa("Adnan", "23123456", "Informatika");
 
-        // Menampilkan data awal
+        // Menampilkan data awal yyyy
         System.out.println("=== Data Mahasiswa Awal ===");
         mhs.tampilData();
 
